@@ -1,11 +1,11 @@
 
-1. ##Clone the repository
+##Clone the repository
 
    ```bash
 https://github.com/forhadreza43/Deep-metric-learning-for-end-to-end-document-classification.git
    ```
 
-2. ## 📁 Project Structure
+## 📁 Project Structure
 
 ```
 Project/
@@ -32,7 +32,7 @@ Project/
 Add all the datasets along with project structure.
 
 
-3. ##Install dependencies and packages
+##Install dependencies and packages
 
    ```bash
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
@@ -42,7 +42,7 @@ pip install faiss-gpu
 pip install numpy scikit-learn tqdm
    ```
 
-4. ##Run the following command
+##Run the following command
 
    ```bash
    npm run dev
