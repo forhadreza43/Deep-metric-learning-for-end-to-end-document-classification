@@ -44,10 +44,6 @@ pip install numpy scikit-learn tqdm
 
 ##Run the following command
 
-   ```bash
-   npm run dev
-   ```
-
 Train (debug)
    ```bash
    python src/train.py --project_root "D:\Thesis\Project" --save_dir checkpoints
